@@ -1139,8 +1139,8 @@ twoSum([2, 3, 4, 5, 6], 10)
 | --------- | ----- |
 | insert    | O(1)  |
 | lookup    | O(1)  |
-| delete    | O(n)  |
-| search    | O(n)  |
+| delete    | O(1)  |
+| search    | O(1)  |
 
 [Hash Table Animation](https://www.cs.usfca.edu/~galles/visualization/OpenHash.html)
 
