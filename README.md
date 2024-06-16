@@ -1245,8 +1245,8 @@ Hash Tables
 | --------- | ----- |
 | search    | O(1)  |
 | insert    | O(1)  |
-| lookup    | O(n)  |
-| delete    | O(n)  |
+| lookup    | O(1)  |
+| delete    | O(1)  |
 
 **[⬆ back to top](#table-of-contents)**
 
